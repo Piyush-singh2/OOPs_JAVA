@@ -1,0 +1,24 @@
+//Important points
+
+/*
+1. setattribute(datatype variable_name){
+    this.atrribut = varialbe_name
+}
+
+2.getattribut(){
+return attribute;
+}
+
+3. If we create a array using book b = new book[5];
+only an array is created , but the object type of the b[1],b[0],...
+are not defined.
+We have to set them using the constructor.
+
+Creating an array of objects does not create the objects themselves;
+each object must be instantiated using new.
+
+4.check code for implementing search inside the function
+
+5.
+
+*/
