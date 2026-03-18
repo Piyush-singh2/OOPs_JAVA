@@ -1,0 +1,10 @@
+What does encapsulation means ?
+
+
+Wrapping up the implementation of the data 
+
+
+
+
+abstraction ?
+Hiding the unneccesary details and  

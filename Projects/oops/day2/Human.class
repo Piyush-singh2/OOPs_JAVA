@@ -1,0 +1,15 @@
+
+public class Human {
+    int age;
+    int salary;
+    String name;
+    static int population;
+
+    public Human(int age, int salary, String name){
+            this.name = name;
+            this.age = age;
+            this.salary = salary;
+            Human.population +=1;
+
+    }
+}
